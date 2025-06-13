@@ -57,5 +57,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Abhishek Ganapure
-https://github.com/Abh3shek
+Built by abh3shek
+github: https://github.com/Abh3shek
